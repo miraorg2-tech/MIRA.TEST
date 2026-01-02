@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Nexus AI Orchestrator",
+  "description": "An intelligent agent that analyzes your request and automatically routes it to the most capable Gemini model—whether for text, reasoning, image generation, video creation, or speech synthesis.",
+  "requestFramePermissions": []
+}
